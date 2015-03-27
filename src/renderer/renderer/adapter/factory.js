@@ -25,7 +25,8 @@ var registry = {
         shader: require("./shader.js"),
         group: require("./group.js"),
         light: require("./light.js"),
-        lightshader: require("./lightshader.js")
+        lightshader: require("./lightshader.js"),
+        volume: require("./volume.js")
     };
 
 /**
