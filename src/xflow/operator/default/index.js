@@ -30,3 +30,5 @@ require("./skinPosition.js");
 require("./slerpseq.js");
 require("./sobelImage.js");
 require("./sub3.js");
+require("./calcTFFromColorTable.js");
+require("./volumeDataFromPNG.js");
